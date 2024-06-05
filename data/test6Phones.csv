@@ -1,0 +1,414 @@
+name,brand,model,operating_system,ram_gb,internal_storage_capacity_gb,screen_size_cm,rear_camera_mp,front_camera_mp,generation,battery_mah,price_euro,image,resolution_x,resolution_y
+Huawei Nova Y70,Huawei,Huawei Managua C,Android,4.0,128.0,17.14,48.0,8.0,4g,6000.0,259.99,https://m.media-amazon.com/images/I/41bqu7LO13L.jpg,720,1600
+Huawei Honor 70 Lite 5G,Huawei,Huawei Robin,Android,4.0,128.0,16.5,50.3,8.0,5g,5000.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,720,1600
+Huawei Honor X50i 5G,Huawei,Huawei Christina 5G,Android,12.0,256.0,17.0,100.6,8.0,5g,4500.0,349.0,https://m.media-amazon.com/images/I/41y8Ag7umqL.jpg,1080,2388
+Huawei Honor Magic 5 Lite 5G,Huawei,Huawei Ramone B,Android,8.0,256.0,16.94,63.7,15.9,5g,5100.0,228.0,https://m.media-amazon.com/images/I/41v57ewfr6L.jpg,1080,2400
+Huawei Honor Magic 5 5G,Huawei,Huawei Piaget 0,Android,18.0,512.0,17.09,53.9,12.6,5g,5100.0,225.0,https://m.media-amazon.com/images/I/41EN+MXQtsL.jpg,1224,2688
+Huawei Honor X8a 5G,Huawei,Huawei Robin,Android,4.0,128.0,16.5,50.1,8.0,5g,5000.0,185.0,https://m.media-amazon.com/images/I/4110Oh+Zb1L.jpg,720,1600
+Huawei Honor Magic 5 Ultimate 5G,Huawei,Huawei Piaget U,Android,18.0,512.0,17.3,50.3,12.6,5g,5450.0,228.0,https://m.media-amazon.com/images/I/41v57ewfr6L.jpg,1312,2848
+Huawei Honor 80 Pro 5G,Huawei,Huawei Annabelle P,Android,12.0,256.0,17.22,159.7,49.9,5g,4800.0,185.0,https://m.media-amazon.com/images/I/4110Oh+Zb1L.jpg,1224,2400
+Huawei Honor 80 5G,Huawei,Huawei Annabelle,Android,12.0,512.0,16.94,159.7,32.0,5g,4800.0,185.67,https://m.media-amazon.com/images/I/414Prf-0KyL.jpg,1080,2400
+Huawei P60 4G,Huawei,Huawei Leonardo,Android,8.0,512.0,16.94,48.0,13.0,4g,4815.0,1151.04,https://m.media-amazon.com/images/I/416ZZ-OZDeL.jpg,1220,2700
+Huawei P60 Pro 4G,Huawei,Huawei Mona Lisa,Android,8.0,256.0,16.94,48.0,13.0,4g,4815.0,999.99,https://m.media-amazon.com/images/I/41X41eezaTL.jpg,1220,2700
+Huawei Honor X8a 4G,Huawei,Huawei Christina,Android,8.0,128.0,17.02,100.6,15.9,4g,4500.0,169.0,https://m.media-amazon.com/images/I/41+scnJDTUL.jpg,1080,2388
+OnePlus Nord CE 3 Lite 5G,OnePlus,BBK Larry,Android,8.0,256.0,17.07,108.0,15.9,5g,5000.0,183.0,https://m.media-amazon.com/images/I/413HGTA4CeL.jpg,1080,2400
+OnePlus Nord CE 3 5G,OnePlus,BBK Ziti,Android,12.0,256.0,17.02,50.1,15.9,5g,5000.0,183.0,https://m.media-amazon.com/images/I/413HGTA4CeL.jpg,1080,2412
+Oppo K11x 5G (2023),Oppo,BBK Larry,Android,12.0,256.0,17.06,108.0,15.9,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+OnePlus Nord 3 5G,OnePlus,BBK Vitamin,Android,18.0,256.0,17.12,50.1,15.9,5g,5000.0,380.61,https://m.media-amazon.com/images/I/41-7pkngAmL.jpg,1240,2772
+Nokia G20 (2021),Nokia,HMD Ronin,Android,4.0,128.0,16.51,48.0,8.0,4g,5050.0,199.9,https://m.media-amazon.com/images/I/31J83gPZtBL.jpg,720,1600
+Oppo Realme GT Neo 5 5G (2023) 240W,Oppo,BBK R3706,Android,18.0,1024.0,17.12,50.1,15.9,5g,4600.0,235.87,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1240,2772
+Oppo Realme GT Neo 5 5G (2023),Oppo,BBK R3706,Android,12.0,256.0,17.12,50.1,15.9,5g,5000.0,235.7,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1240,2772
+Oppo Realme GT Neo 5 5G (2023) 150W,Oppo,BBK R3706,Android,18.0,1024.0,17.12,50.1,15.9,5g,5000.0,235.87,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1240,2772
+TCL 40 SE,TCL,TCL T610,Android,4.0,128.0,17.14,50.1,8.0,4g,5010.0,129.0,https://m.media-amazon.com/images/I/21t1E3tWS9L.jpg,720,1600
+Oppo Realme GT Neo 5 5G (240W),Oppo,BBK R3706,Android,18.0,1024.0,17.12,50.1,15.9,5g,4600.0,235.7,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1240,2772
+Nokia X10 (2021) 5G,Nokia,HMD Scarlett,Android,6.0,128.0,16.94,48.0,8.0,5g,4470.0,176.13,https://m.media-amazon.com/images/I/51T2B-Ig9NS.jpg,1080,2400
+Nokia XR20 (2021) 5G,Nokia,HMD R1,Android,6.0,128.0,16.94,48.0,8.0,5g,4630.0,306.02,https://m.media-amazon.com/images/I/31h3KxoSB7L.jpg,1080,2400
+Nokia X30 (2022) 5G,Nokia,HMD Witch,Android,6.0,128.0,16.33,50.1,15.9,5g,4200.0,240.49,https://m.media-amazon.com/images/I/41nmRkDYA-L.jpg,1080,2400
+Motorola Defy 2 5G,Motorola,Caterpillar Rupert,Android,6.0,128.0,16.71,50.1,8.0,5g,5000.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,1080,2408
+Oppo Reno8 T 5G,Oppo,BBK 2505,Android,8.0,256.0,17.02,108.0,32.0,5g,4800.0,372.29,https://m.media-amazon.com/images/I/41MXOZMaG+L.jpg,1080,2412
+Oppo Reno8 T 5G (2023),Oppo,BBK 2505,Android,8.0,256.0,17.02,108.0,32.0,5g,4800.0,299.0,https://m.media-amazon.com/images/I/41z1pnVof5L.jpg,1080,2412
+Oppo Reno8 T 4G (2023),Oppo,BBK 2481,Android,8.0,256.0,16.33,100.6,32.0,4g,5000.0,145.0,https://m.media-amazon.com/images/I/419DBIY-2qL.jpg,1080,2400
+TCL 405,TCL,TCL T506,Android,2.0,32.0,16.7,13.0,4.9,4g,5000.0,85.57,https://m.media-amazon.com/images/I/41Y-jSkUb0L.jpg,720,1612
+TCL 408,TCL,TCL T507,Android,4.0,64.0,16.7,50.1,8.0,4g,5000.0,99.0,https://m.media-amazon.com/images/I/31k9oBch0kL.jpg,720,1612
+Motorola RAZR 40s 5G (2023),Motorola,Motorola Lynkco,Android,8.0,256.0,17.53,63.7,32.0,5g,4200.0,498.88,https://m.media-amazon.com/images/I/3179TXyR4gL.jpg,1080,2640
+Motorola RAZR 40 5G (2023),Motorola,Motorola Lynkco,Android,8.0,256.0,17.53,63.7,32.0,5g,4200.0,498.88,https://m.media-amazon.com/images/I/3179TXyR4gL.jpg,1080,2640
+Motorola Moto G Play (2023),Motorola,Motorola Maui,Android,4.0,32.0,16.51,15.9,4.9,4g,5000.0,123.0,https://m.media-amazon.com/images/I/41ZfztRX0EL.jpg,720,1600
+Motorola Moto G Play (2023) 2nd gen,Motorola,Motorola Maui,Android,4.0,32.0,16.51,15.9,4.9,4g,5000.0,123.0,https://m.media-amazon.com/images/I/41ZfztRX0EL.jpg,720,1600
+Motorola RAZR+ 5G (4th gen 2023),Motorola,Motorola Zeekr,Android,8.0,256.0,17.53,12.0,32.0,5g,3800.0,788.99,https://m.media-amazon.com/images/I/41bqx1zybqL.jpg,1080,2640
+Motorola Moto Edge 40 5G (2023),Motorola,Motorola Lyriq,Android,8.0,256.0,16.64,50.1,32.0,5g,4400.0,597.15,https://m.media-amazon.com/images/I/31VHopwKovL.jpg,1080,2400
+Motorola Moto G 5G (2023) 2nd gen,Motorola,Motorola PenangN,Android,4.0,64.0,16.5,48.0,8.0,5g,5000.0,199.9,https://m.media-amazon.com/images/I/412cwiRLhmL.jpg,720,1600
+Motorola Moto G Stylus 5G (2023),Motorola,Motorola GenevN,Android,6.0,128.0,16.76,50.1,15.9,5g,5000.0,123.0,https://m.media-amazon.com/images/I/41ZfztRX0EL.jpg,1080,2400
+Motorola Moto Edge+ 5G (2023) 3rd gen,Motorola,Motorola RTwo,Android,8.0,512.0,16.94,50.1,60.3,5g,5100.0,210.0,https://m.media-amazon.com/images/I/41FIaCs029L.jpg,1080,2400
+Motorola Moto Edge 40 Pro 5G (2023),Motorola,Motorola RTwo,Android,12.0,256.0,16.94,50.1,60.3,5g,4600.0,399.99,https://m.media-amazon.com/images/I/31IbcjY3yYL.jpg,1080,2400
+Xiaomi Redmi A1,Xiaomi,Xiaomi Ice,Android,,,16.56,8.0,4.9,4g,5000.0,82.0,https://m.media-amazon.com/images/I/31MWTOw3JrL.jpg,720,1600
+Huawei Honor X5 4G,Huawei,Huawei Vanessa,Android,2.0,32.0,16.5,8.0,5.0,4g,5000.0,225.0,https://m.media-amazon.com/images/I/41EN+MXQtsL.jpg,720,1600
+Motorola Moto X40 5G (2023),Motorola,Motorola RTwo,Android,12.0,512.0,16.94,50.1,60.3,5g,4600.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,1080,2400
+Motorola Moto G Power 5G (2023),Motorola,Motorola DevonN,Android,6.0,256.0,16.5,50.1,15.9,5g,5000.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,1080,2400
+Motorola Moto X30 Pro 5G (2022),Motorola,Motorola Eqs,Android,12.0,512.0,16.94,201.3,60.2,5g,4610.0,573.0,https://m.media-amazon.com/images/I/41E0cs+zRbL.jpg,1080,2400
+Motorola Moto Edge X30 Ultra 5G (2022),Motorola,Motorola Eqs,Android,12.0,256.0,16.94,201.3,60.2,5g,4610.0,229.9,https://m.media-amazon.com/images/I/41HjqiUWQWL.jpg,1080,2400
+Huawei Honor X40 GT 5G,Huawei,Huawei AndyGT,Android,12.0,256.0,17.3,50.3,15.9,5g,4800.0,299.0,https://m.media-amazon.com/images/I/412AQCgZViL.jpg,1080,2388
+Huawei Honor 80 GT 5G,Huawei,Huawei Agatha,Android,18.0,512.0,16.94,53.9,15.9,5g,4800.0,185.67,https://m.media-amazon.com/images/I/414Prf-0KyL.jpg,1080,2400
+Motorola ThinkPhone 5G (2023),Motorola,Motorola Bronco,Android,8.0,256.0,16.76,50.1,15.9,5g,5000.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,1080,2400
+Huawei Honor Magic,Huawei,Huawei Nottingham,Android,4.0,64.0,12.93,11.8,8.0,4g,2900.0,249.0,https://m.media-amazon.com/images/I/51sGUFhH7SL.jpg,1440,2560
+Huawei Honor 10,Huawei,Huawei Columbia,Android,6.0,128.0,14.83,15.9,23.8,4g,3400.0,149.95,https://m.media-amazon.com/images/I/31Di513yTwL.jpg,1080,2280
+Huawei Honor 10 4G+,Huawei,Huawei Columbia,Android,6.0,128.0,14.83,15.9,23.8,4g,3400.0,149.95,https://m.media-amazon.com/images/I/31Di513yTwL.jpg,1080,2280
+Huawei Honor 10 Lite,Huawei,Huawei Harry,Android,6.0,128.0,15.77,13.0,23.8,4g,3400.0,149.95,https://m.media-amazon.com/images/I/31Di513yTwL.jpg,1080,2340
+Huawei Honor 50 5G,Huawei,Huawei Nottingham,Android,12.0,256.0,16.69,108.6,32.0,5g,4300.0,210.0,https://m.media-amazon.com/images/I/41ws08ua05L.jpg,1080,2340
+Huawei Honor 50 Pro 5G,Huawei,Huawei Rena,Android,12.0,256.0,17.07,108.6,32.0,5g,4000.0,699.0,https://m.media-amazon.com/images/I/51LZcZsP9KL.jpg,1236,2676
+Huawei Honor X20 5G,Huawei,Huawei Newton,Android,8.0,256.0,16.94,63.7,15.9,5g,4300.0,185.0,https://m.media-amazon.com/images/I/4110Oh+Zb1L.jpg,1080,2376
+Huawei Honor X30 5G,Huawei,Huawei Andy,Android,12.0,256.0,17.3,48.0,15.9,5g,4800.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,1080,2388
+Huawei Honor Play 30 Plus 5G Premium,Huawei,Huawei Carmella,Android,8.0,128.0,17.12,13.0,5.0,5g,5000.0,299.0,https://m.media-amazon.com/images/I/412AQCgZViL.jpg,720,1600
+Huawei Honor Play 30 Plus 5G,Huawei,Huawei Carmella,Android,6.0,128.0,17.12,13.0,5.0,5g,5000.0,349.0,https://m.media-amazon.com/images/I/41y8Ag7umqL.jpg,720,1600
+Huawei Honor Play5 5G Vitality Edition,Huawei,Huawei NewtonH,Android,8.0,256.0,16.94,63.7,15.9,5g,4300.0,225.0,https://m.media-amazon.com/images/I/41EN+MXQtsL.jpg,1080,2376
+Huawei Honor Play 5T 4G Vitality Edition,Huawei,Huawei Nezha,Android,6.0,128.0,16.75,13.0,8.0,4g,5000.0,229.99,https://m.media-amazon.com/images/I/41oC3o-97zL.jpg,720,1600
+Huawei Honor Play 6T 5G,Huawei,Huawei Carmella B,Android,8.0,256.0,17.12,13.0,5.0,5g,5000.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,720,1600
+Huawei Honor X7 4G,Huawei,Huawei Carmella 4G,Android,6.0,128.0,17.12,48.0,8.0,4g,5000.0,181.74,https://m.media-amazon.com/images/I/31L4c+CNX+L.jpg,720,1600
+Huawei Honor X9 5G,Huawei,Huawei Andy,Android,8.0,256.0,17.3,48.0,15.9,5g,4800.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,1080,2388
+Nokia G22 (2023),Nokia,HMD Sunfire,Android,4.0,128.0,16.56,50.3,8.0,4g,5050.0,153.63,https://m.media-amazon.com/images/I/31Z-AfJli+L.jpg,720,1600
+Nokia C31 (2022),Nokia,HMD Vision,Android,4.0,128.0,17.13,13.0,4.9,4g,5050.0,79.91,https://m.media-amazon.com/images/I/31t5sL-wDCL.jpg,720,1600
+Nokia C32 (2023),Nokia,HMD Mockingbird,Android,4.0,128.0,16.55,50.3,8.0,4g,5000.0,106.99,https://m.media-amazon.com/images/I/31NC-+T5A-L.jpg,720,1600
+Nokia C22 (2023),Nokia,HMD Hawkeye,Android,2.0,64.0,16.55,13.0,8.0,4g,5000.0,134.89,https://m.media-amazon.com/images/I/31S6900STwL.jpg,720,1600
+Motorola Moto E13 (2023),Motorola,Motorola SabahL,Android,4.0,64.0,16.5,13.0,4.9,4g,5000.0,86.99,https://m.media-amazon.com/images/I/41RZNZN6UkL.jpg,720,1600
+Motorola Moto G14 (2023),Motorola,Motorola Cancun,Android,4.0,128.0,16.5,50.3,8.0,4g,5000.0,128.0,https://m.media-amazon.com/images/I/41jRTuoAVBL.jpg,1080,2400
+Motorola Moto G23 (2023),Motorola,Motorola PenangF,Android,8.0,128.0,16.5,50.1,15.9,4g,5000.0,125.1,https://m.media-amazon.com/images/I/41EV+vF8CJL.jpg,720,1600
+Motorola Moto G13 (2023),Motorola,Motorola PenangF,Android,4.0,128.0,16.5,50.1,8.0,4g,5000.0,113.44,https://m.media-amazon.com/images/I/41nkPGDMbHL.jpg,720,1600
+Oppo Realme 10 Pro+ 5G (2022),Oppo,BBK R3686,Android,12.0,256.0,17.02,108.0,16.2,5g,5000.0,435.0,https://m.media-amazon.com/images/I/41etcUrNfQL.jpg,1080,2412
+Motorola Moto G52j 5G (2022),Motorola,Motorola CypfR,Android,6.0,128.0,17.27,50.3,13.0,5g,5000.0,199.9,https://m.media-amazon.com/images/I/412cwiRLhmL.jpg,1080,2460
+Oppo Realme 10 Pro 5G (2022),Oppo,BBK R3660,Android,12.0,256.0,17.07,108.0,16.2,5g,5000.0,435.0,https://m.media-amazon.com/images/I/41etcUrNfQL.jpg,1080,2400
+Motorola Moto G73 5G (2023),Motorola,Motorola DevonF,Android,8.0,256.0,16.5,50.1,15.9,5g,5000.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,1080,2400
+Motorola Moto G52j II 5G (2022),Motorola,Motorola CypfR,Android,8.0,128.0,17.27,50.3,13.0,5g,5000.0,199.9,https://m.media-amazon.com/images/I/41dWCdckM-L.jpg,1080,2460
+Oppo Realme 10 5G (2022),Oppo,,Android,8.0,256.0,16.76,50.1,8.0,5g,5000.0,339.0,https://m.media-amazon.com/images/I/41F4yyLTd4L.jpg,1080,2408
+Oppo Realme 10s 5G (2022),Oppo,,Android,8.0,256.0,16.76,50.1,8.0,5g,5000.0,217.88,https://m.media-amazon.com/images/I/41Zy4fJA5ZL.jpg,1080,2408
+Nokia 2.4,Nokia,HMD 2.4,Android,4.0,64.0,16.5,13.0,4.9,4g,4500.0,78.42,https://m.media-amazon.com/images/I/51f2AyCGPUS.jpg,720,1600
+Nokia 2.4 LTE,Nokia,HMD 2.4,Android,4.0,64.0,16.5,13.0,4.9,4g,4500.0,59.99,https://m.media-amazon.com/images/I/41ItGSqmliL.jpg,720,1600
+Samsung Galaxy F14 5G (2023),Samsung,Samsung E146,Android,6.0,128.0,16.72,50.1,13.0,5g,6000.0,148.0,https://m.media-amazon.com/images/I/31aommWtxQL.jpg,1080,2408
+Samsung Galaxy M54 5G (2023),Samsung,Samsung M546,Android,8.0,256.0,16.95,108.0,32.0,5g,6000.0,369.0,https://m.media-amazon.com/images/I/41eccmjCBsL.jpg,1080,2400
+Xiaomi Civi 3 5G,Xiaomi,Xiaomi Yuechu,Android,,,16.64,50.1,32.0,5g,4500.0,99.0,https://m.media-amazon.com/images/I/416urKR+PeL.jpg,1080,2400
+Huawei Honor Magic Vs 5G Ultimate Edition,Huawei,Huawei Frida,Android,18.0,512.0,16.38,53.9,15.9,5g,5000.0,349.0,https://m.media-amazon.com/images/I/41y8Ag7umqL.jpg,1080,2560
+Huawei Honor Magic Vs 5G,Huawei,Huawei Frida,Android,12.0,512.0,16.38,53.9,15.9,5g,5000.0,225.0,https://m.media-amazon.com/images/I/41EN+MXQtsL.jpg,1080,2560
+Motorola Moto G53 5G (2022),Motorola,Motorola Penang,Android,6.0,128.0,16.5,50.1,8.0,5g,5000.0,118.48,https://m.media-amazon.com/images/I/41G7LDDuCGL.jpg,720,1600
+Huawei Honor Play 40 Plus 5G Premium,Huawei,Huawei Rocky,Android,8.0,256.0,17.12,50.3,5.0,5g,6000.0,299.0,https://m.media-amazon.com/images/I/412AQCgZViL.jpg,720,1600
+Huawei Honor Play 40 Plus 5G,Huawei,Huawei Rocky,Android,6.0,128.0,17.12,50.3,5.0,5g,6000.0,299.0,https://m.media-amazon.com/images/I/412AQCgZViL.jpg,720,1600
+Motorola Moto G53y 5G (2023),Motorola,Motorola Penang,Android,4.0,128.0,16.5,50.1,8.0,5g,5000.0,118.48,https://m.media-amazon.com/images/I/41G7LDDuCGL.jpg,720,1600
+Motorola Moto G53j 5G (2023),Motorola,Motorola Penang,Android,8.0,128.0,16.5,50.1,8.0,5g,5000.0,180.99,https://m.media-amazon.com/images/I/41JLO+HjOGL.jpg,720,1600
+Samsung Galaxy S21 FE 5G,Samsung,Samsung G990,Android,8.0,256.0,16.29,12.0,32.0,5g,4500.0,369.99,https://m.media-amazon.com/images/I/41r+HbJz1VL.jpg,1080,2340
+Samsung Galaxy S21 FE 5G UW,Samsung,Samsung G990,Android,6.0,128.0,16.29,12.0,32.0,5g,4500.0,369.99,https://m.media-amazon.com/images/I/41r+HbJz1VL.jpg,1080,2340
+Xiaomi Redmi Note 12T Pro 5G,Xiaomi,Xiaomi Pearl,Android,,,16.7,63.7,15.9,5g,5080.0,450.66,https://m.media-amazon.com/images/I/41loWvNMt+L.jpg,1080,2460
+Xiaomi Redmi Note 12 4G,Xiaomi,Xiaomi Topaz,Android,,,16.94,50.1,13.0,4g,5000.0,132.63,https://m.media-amazon.com/images/I/41pI1-epe6L.jpg,1080,2400
+Xiaomi Redmi Note 12 4G NFC,Xiaomi,Xiaomi Topaz,Android,,,16.94,50.1,13.0,4g,5000.0,139.99,https://m.media-amazon.com/images/I/21RVSEnQJPL.jpg,1080,2400
+Xiaomi Redmi Note 12R 5G,Xiaomi,Xiaomi Sky,Android,,,17.25,50.1,4.9,5g,5000.0,146.0,https://m.media-amazon.com/images/I/71sQnFe0oSL.jpg,1080,2460
+Oppo Find N2 (2022) 5G,Oppo,BBK White Swan,Android,18.0,512.0,14.07,50.1,32.0,5g,4520.0,819.52,https://m.media-amazon.com/images/I/41YHDH00giL.jpg,1080,2120
+Xiaomi Redmi Note 12 5G,Xiaomi,Xiaomi Sunstone,Android,,,16.94,48.0,8.0,5g,5000.0,146.0,https://m.media-amazon.com/images/I/71sQnFe0oSL.jpg,1080,2400
+Xiaomi Poco F5 Pro 5G,Xiaomi,Xiaomi Mondrian B,Android,,,16.94,64.2,15.9,5g,5160.0,480.99,https://m.media-amazon.com/images/I/41Q3Gm7C7XL.jpg,1440,3200
+Xiaomi Redmi Note 12R Pro 5G,Xiaomi,Xiaomi Sunstone,Android,,,16.94,48.0,8.0,5g,5000.0,244.0,https://m.media-amazon.com/images/I/41nsddYexoL.jpg,1080,2400
+Xiaomi Redmi Note 12 Turbo 5G Harry Potter Edition,Xiaomi,Xiaomi Marble,Android,,,16.94,63.7,15.9,5g,5000.0,102.94,https://m.media-amazon.com/images/I/41a9lmSYr2L.jpg,1080,2400
+Xiaomi Redmi Note 12 Turbo 5G,Xiaomi,Xiaomi Marble,Android,,,16.94,63.7,15.9,5g,5000.0,244.0,https://m.media-amazon.com/images/I/41nsddYexoL.jpg,1080,2400
+Xiaomi Redmi Note 12 Pro 4G,Xiaomi,Xiaomi SweetPro B,Android,,,16.94,108.0,16.2,4g,5000.0,183.0,https://m.media-amazon.com/images/I/41jWI5RjOyL.jpg,1080,2400
+OnePlus Ace 2 5G,OnePlus,BBK Udon,Android,18.0,512.0,17.12,50.1,15.9,5g,5000.0,199.0,https://m.media-amazon.com/images/I/410dFvwi9AL.jpg,1240,2772
+OnePlus Ace 2 5G (Red Edition),OnePlus,BBK Udon,Android,20.0,512.0,17.12,50.1,15.9,5g,5000.0,399.0,https://m.media-amazon.com/images/I/4178kVR5PNL.jpg,1240,2772
+OnePlus 11R 5G,OnePlus,BBK Udon,Android,18.0,256.0,17.12,50.1,15.9,5g,5000.0,579.0,https://m.media-amazon.com/images/I/41jtPRZTFjL.jpg,1240,2772
+Xiaomi Redmi Note 12 Pro 5G,Xiaomi,Xiaomi Ruby,Android,,,16.94,50.1,15.9,5g,5000.0,244.0,https://m.media-amazon.com/images/I/41nsddYexoL.jpg,1080,2400
+Xiaomi Redmi Note 12 Pro+ 5G,Xiaomi,Xiaomi Ruby Pro,Android,,,16.94,199.8,15.9,5g,5000.0,276.99,https://m.media-amazon.com/images/I/41Gxn7QhSFL.jpg,1080,2400
+Xiaomi Redmi Note 12 Pro Speed 5G,Xiaomi,Xiaomi Redwood A,Android,,,16.94,108.0,15.9,5g,5000.0,245.0,https://m.media-amazon.com/images/I/31rGMbo3H3L.jpg,1080,2400
+OnePlus 11 5G,OnePlus,BBK Salami,Android,18.0,512.0,17.02,50.1,15.9,5g,5000.0,686.04,https://m.media-amazon.com/images/I/41SSq3xDb9L.jpg,1440,3216
+Nokia G60 2022 5G,Nokia,,Android,6.0,128.0,16.71,50.1,8.0,5g,4500.0,569.48,https://m.media-amazon.com/images/I/41gB8LUh5+L.jpg,1080,2400
+Oppo Reno8 Z 5G (2022),Oppo,BBK 2343,Android,8.0,256.0,16.33,63.7,15.9,5g,4500.0,299.99,https://m.media-amazon.com/images/I/418rVNcp-LL.jpg,1080,2400
+OnePlus Nord N20 5G (2022),OnePlus,BBK 2343,Android,6.0,128.0,16.33,63.7,15.9,5g,4500.0,139.0,https://m.media-amazon.com/images/I/41SwU7i6J0L.jpg,1080,2400
+Samsung Galaxy S23 Ultra 5G,Samsung,Samsung Diamond DM3,Android,12.0,1024.0,17.31,201.3,12.0,5g,5000.0,889.99,https://m.media-amazon.com/images/I/41BdHISiHNL.jpg,1440,3088
+Oppo Reno9 5G (2022),Oppo,,Android,12.0,512.0,17.02,63.7,32.0,5g,4500.0,217.88,https://m.media-amazon.com/images/I/41Zy4fJA5ZL.jpg,1080,2412
+Oppo Reno9 Pro 5G (2022),Oppo,,Android,18.0,512.0,17.02,50.3,32.0,5g,4500.0,334.52,https://m.media-amazon.com/images/I/41AsaYGXm4L.jpg,1080,2412
+Oppo Reno9 Pro+ 5G,Oppo,,Android,18.0,512.0,17.0,50.1,32.0,5g,4700.0,334.52,https://m.media-amazon.com/images/I/41AsaYGXm4L.jpg,1080,2412
+Sony Xperia 1 V 5G,Sony,Sony PDX-234,Android,18.0,256.0,16.53,12.2,12.2,5g,5000.0,1219.99,https://m.media-amazon.com/images/I/31cZOUHcBcL.jpg,1644,3840
+Sony Xperia 1 V 5G Gaming Edition,Sony,Sony PDX-234,Android,12.0,256.0,16.53,12.2,12.2,5g,5000.0,1229.99,https://m.media-amazon.com/images/I/31l04aTH+DL.jpg,1644,3840
+Xiaomi Poco C50,Xiaomi,Xiaomi Ice F,Android,,,16.56,8.0,4.9,4g,5000.0,122.0,https://m.media-amazon.com/images/I/31v9uUbvDYL.jpg,720,1600
+Asus ROG Phone 7 Ultimate 5G,Asus,Asus I2205,Android,18.0,512.0,17.22,50.1,32.0,5g,6000.0,1055.65,https://m.media-amazon.com/images/I/419GFWk-fIL.jpg,1080,2448
+Asus ROG Phone 7 Pro 5G,Asus,Asus I2205,Android,18.0,512.0,17.22,50.1,32.0,5g,6000.0,777.9,https://m.media-amazon.com/images/I/41nLKwLo0eL.jpg,1080,2448
+Oppo Realme C30s (2022),Oppo,BBK R3690,Android,4.0,64.0,16.51,8.0,5.0,4g,5000.0,190.18,https://m.media-amazon.com/images/I/41+2Oj8D-NL.jpg,720,1600
+Huawei Honor X40 5G,Huawei,Huawei Ramone,Android,12.0,256.0,16.94,50.3,8.0,5g,5100.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,1080,2400
+Huawei Honor X9a 5G,Huawei,Huawei Ramone B,Android,8.0,128.0,16.94,63.7,15.9,5g,5100.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,1080,2400
+Huawei nova Y61,Huawei,Huawei Everlyn,Android,4.0,64.0,16.56,50.3,5.0,4g,5000.0,159.99,https://m.media-amazon.com/images/I/517SqKV8-bL.jpg,720,1600
+Huawei nova Y61 NFC,Huawei,Huawei Everlyn,Android,4.0,64.0,16.56,50.3,5.0,4g,5000.0,279.0,https://m.media-amazon.com/images/I/41J3EQdhjjL.jpg,720,1600
+Huawei Honor X6 4G,Huawei,Huawei Vinnie 4G,Android,4.0,64.0,16.5,50.3,5.0,4g,5000.0,97.75,https://m.media-amazon.com/images/I/41mkzFLnlSL.jpg,720,1600
+Huawei Honor Play 6C 5G Premium,Huawei,Huawei Vinnie C,Android,8.0,128.0,16.5,13.0,5.0,5g,5000.0,133.95,https://m.media-amazon.com/images/I/41KePQuzSiL.jpg,720,1600
+Huawei Mate 50E,Huawei,Huawei Charlette E,Android,8.0,256.0,17.0,50.3,13.0,4g,4460.0,1099.0,https://m.media-amazon.com/images/I/412o5CS+79L.jpg,1224,2700
+Huawei Mate 50,Huawei,Huawei Charlette,Android,8.0,512.0,17.0,50.3,13.0,4g,4460.0,1099.0,https://m.media-amazon.com/images/I/412o5CS+79L.jpg,1224,2700
+Huawei Mate 50 Pro 4G,Huawei,Huawei Decora,Android,8.0,512.0,17.12,50.3,13.0,4g,4700.0,1401.05,https://m.media-amazon.com/images/I/51T0yWmEM7L.jpg,1212,2616
+Oppo Realme C33 (2022),Oppo,BBK R3624,Android,4.0,128.0,16.51,50.3,4.9,4g,5000.0,147.92,https://m.media-amazon.com/images/I/414frcWebAL.jpg,720,1600
+Samsung Galaxy A12 (2021),Samsung,Samsung M127C,Android,4.0,64.0,16.55,48.0,8.0,4g,5000.0,144.0,https://m.media-amazon.com/images/I/314J4rgsrpL.jpg,720,1600
+Samsung Galaxy A03s (2021),Samsung,Samsung A037,Android,4.0,64.0,16.55,13.0,4.9,4g,5000.0,139.0,https://m.media-amazon.com/images/I/31yBqQ-ORYL.jpg,720,1600
+Google Pixel 7a 5G,Google,Google Lynx,Android,8.0,128.0,15.5,63.7,13.0,5g,4385.0,379.0,https://m.media-amazon.com/images/I/41wM-AodMiL.jpg,1080,2400
+Google Pixel Fold 5G,Google,Google Felix,Android,12.0,512.0,19.23,48.0,9.5,5g,4821.0,1349.0,https://m.media-amazon.com/images/I/41aj4a06kvL.jpg,2208,1840
+TCL 40 R 5G,TCL,TCL T771,Android,4.0,64.0,16.7,50.1,8.0,5g,5000.0,177.96,https://m.media-amazon.com/images/I/21x7KkCnDcL.jpg,720,1612
+OnePlus 10 Pro 5G,OnePlus,BBK Negroni,Android,12.0,256.0,17.02,48.0,32.3,5g,5000.0,499.0,https://m.media-amazon.com/images/I/41u-rKKgrkL.jpg,1440,3216
+OnePlus Ace Pro 5G,OnePlus,BBK Ovaltine,Android,18.0,512.0,17.02,48.0,16.2,5g,4800.0,398.0,https://m.media-amazon.com/images/I/415ldPCN8OL.jpg,1080,2412
+OnePlus 10T 5G,OnePlus,BBK Ovaltine,Android,18.0,256.0,17.02,48.0,16.2,5g,4800.0,399.0,https://m.media-amazon.com/images/I/4178kVR5PNL.jpg,1080,2412
+Samsung Galaxy Note 10+ 5G,Samsung,Samsung DaVinci 4,Android,12.0,256.0,17.16,12.2,10.0,5g,4300.0,559.99,https://m.media-amazon.com/images/I/41FdK9ubgZL.jpg,1440,3040
+Motorola RAZR 5G (2022),Motorola,Motorola Oneli,Android,12.0,512.0,17.0,50.3,32.0,5g,3500.0,498.88,https://m.media-amazon.com/images/I/3179TXyR4gL.jpg,1080,2400
+Asus Zenfone 9 5G,Asus,Asus I2202,Android,18.0,256.0,15.04,50.3,12.0,5g,4300.0,649.99,https://m.media-amazon.com/images/I/41IQX+3+flL.jpg,1080,2400
+Google Pixel 7 Pro 5G,Google,Google Cheetah,Android,12.0,256.0,17.0,50.1,10.9,5g,5000.0,576.0,https://m.media-amazon.com/images/I/31dvYb8T8jL.jpg,1440,3120
+Samsung Galaxy A14 (2023),Samsung,Samsung A145,Android,4.0,128.0,16.7,50.1,13.0,4g,5000.0,131.29,https://m.media-amazon.com/images/I/41f8PeVI9zL.jpg,1080,2408
+Samsung Galaxy A14 4G (2021),Samsung,Samsung A145,Android,6.0,128.0,16.7,50.1,13.0,4g,5000.0,102.0,https://m.media-amazon.com/images/I/31oxdAXilYL.jpg,1080,2408
+Samsung Galaxy A23 5G (2022),Samsung,Samsung A236,Android,6.0,128.0,16.72,50.1,8.0,5g,5000.0,198.94,https://m.media-amazon.com/images/I/51f452y0xJL.jpg,1080,2408
+Samsung Galaxy A14 5G (2023),Samsung,Samsung A146,Android,4.0,128.0,16.72,50.1,13.0,5g,5000.0,139.16,https://m.media-amazon.com/images/I/51RlCFN9zaL.jpg,1080,2408
+Samsung Galaxy A14 5G,Samsung,Samsung A146,Android,4.0,64.0,16.72,50.1,13.0,5g,5000.0,139.16,https://m.media-amazon.com/images/I/51RlCFN9zaL.jpg,1080,2408
+Samsung Galaxy A04s (2022),Samsung,Samsung A047,Android,4.0,128.0,16.55,50.1,4.9,4g,5000.0,102.98,https://m.media-amazon.com/images/I/51xL90mMU3L.jpg,720,1600
+Samsung Galaxy A53 5G (2022),Samsung,Samsung A536,Android,6.0,128.0,16.4,63.7,32.0,5g,5000.0,258.6,https://m.media-amazon.com/images/I/4125N5b2NZL.jpg,1080,2400
+Apple iPhone 12 Mini,Apple,"Apple iPhone 13,1",iOS,4.0,256.0,13.77,12.2,12.2,5g,2227.0,288.0,https://m.media-amazon.com/images/I/31348z5DSJL.jpg,1080,2340
+Samsung Galaxy A34 5G (2023),Samsung,Samsung A346,Android,8.0,256.0,16.65,48.0,13.0,5g,5000.0,236.9,https://m.media-amazon.com/images/I/41koWPpg-kL.jpg,1080,2340
+Samsung Galaxy A54 5G (2023),Samsung,Samsung A546,Android,6.0,128.0,16.31,50.1,32.0,5g,5000.0,369.0,https://m.media-amazon.com/images/I/41eccmjCBsL.jpg,1080,2340
+Samsung Galaxy S23+ 5G,Samsung,Samsung Diamond DM2,Android,8.0,512.0,16.65,50.1,12.0,5g,4700.0,629.0,https://m.media-amazon.com/images/I/415sQ+M0LKL.jpg,1080,2340
+Motorola Moto Edge 5G,Motorola,Motorola Racer,Android,6.0,128.0,17.02,63.7,24.9,5g,4500.0,187.9,https://m.media-amazon.com/images/I/41M5CdcsEtL.jpg,1080,2340
+Motorola Moto Edge+ 5G,Motorola,Motorola Burton,Android,12.0,256.0,17.02,108.6,24.8,5g,5000.0,187.9,https://m.media-amazon.com/images/I/41M5CdcsEtL.jpg,1080,2340
+Samsung Galaxy S22+ 5G,Samsung,Samsung Rainbow G,Android,8.0,256.0,16.65,50.3,10.0,5g,5000.0,599.99,https://m.media-amazon.com/images/I/41HYC3Ba3zL.jpg,1080,2340
+Samsung Galaxy S22 5G,Samsung,Samsung Rainbow R,Android,8.0,256.0,15.39,50.3,10.0,5g,3700.0,434.89,https://m.media-amazon.com/images/I/41ZN-wMZxLL.jpg,1080,2340
+Samsung Galaxy S22 Ultra 5G,Samsung,Samsung Rainbow B,Android,12.0,512.0,17.31,108.0,39.9,5g,5000.0,630.0,https://m.media-amazon.com/images/I/51k9i+O1-+L.jpg,1440,3088
+Samsung Galaxy M04 (2022),Samsung,Samsung A042,Android,4.0,128.0,16.55,13.0,4.9,4g,5000.0,102.98,https://m.media-amazon.com/images/I/51xL90mMU3L.jpg,720,1600
+Oppo A78 5G (2022),Oppo,BBK 2483,Android,8.0,128.0,16.66,50.1,8.0,5g,5000.0,179.0,https://m.media-amazon.com/images/I/41fBkQ-zkdL.jpg,720,1612
+Xiaomi Poco M3,Xiaomi,Xiaomi Citrus,Android,,,16.59,48.0,8.0,4g,6000.0,97.99,https://m.media-amazon.com/images/I/41qw8u2YeqL.jpg,1080,2340
+Xiaomi Redmi Note 10 Pro 4G,Xiaomi,Xiaomi Sweet,Android,,,16.94,64.4,16.2,4g,5020.0,183.0,https://m.media-amazon.com/images/I/41jWI5RjOyL.jpg,1080,2400
+Xiaomi Redmi Note 10S,Xiaomi,Xiaomi Rosemary,Android,,,16.33,64.4,13.0,4g,5000.0,147.0,https://m.media-amazon.com/images/I/41e11W9fMtL.jpg,1080,2400
+Xiaomi Poco M3 Pro 5G,Xiaomi,Xiaomi Camellia,Android,,,16.51,48.0,8.0,5g,5000.0,169.89,https://m.media-amazon.com/images/I/41c43MS21PS.jpg,1080,2400
+Xiaomi Redmi Note 10 5G,Xiaomi,Xiaomi Camellia,Android,,,16.51,48.0,8.0,5g,5000.0,125.0,https://m.media-amazon.com/images/I/41Nae8OPonS.jpg,1080,2400
+Xiaomi Redmi Note 10 JE,Xiaomi,Xiaomi Iris,Android,,,16.51,48.0,8.0,5g,4800.0,125.0,https://m.media-amazon.com/images/I/41Nae8OPonS.jpg,1080,2400
+Xiaomi Redmi Note 10T 5G,Xiaomi,Xiaomi Camellia,Android,,,16.51,48.0,8.0,5g,5000.0,125.0,https://m.media-amazon.com/images/I/41Nae8OPonS.jpg,1080,2400
+Oppo Realme GT Neo 3 5G (2022),Oppo,BfBK Pickle,Android,8.0,256.0,17.02,50.3,16.2,5g,5000.0,235.87,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1080,2412
+Oppo Reno 7 Z 5G (2022),Oppo,BBK 2343,Android,8.0,128.0,16.33,63.7,15.9,5g,4500.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+Oppo F21 Pro 5G (2022),Oppo,BBK 2343,Android,8.0,128.0,16.33,63.7,15.9,5g,4500.0,266.61,https://m.media-amazon.com/images/I/41fNSnUqQxL.jpg,1080,2400
+Oppo Reno 8 Lite 5G (2022),Oppo,BBK 2343,Android,8.0,128.0,16.33,63.7,15.9,5g,4500.0,249.0,https://m.media-amazon.com/images/I/41cES7lUjnL.jpg,1080,2400
+Oppo A57 4G (2022),Oppo,BBK 2387,Android,4.0,128.0,16.66,13.0,8.0,4g,5000.0,129.0,https://m.media-amazon.com/images/I/51PywB+y-DL.jpg,720,1612
+Nokia C20 (2021),Nokia,HMD Cosmo,Android,2.0,32.0,16.56,4.9,4.9,4g,3000.0,114.99,https://m.media-amazon.com/images/I/51lCAs4RTSS.jpg,720,1600
+Nokia C21 (2022),Nokia,HMD Cosmo Refresh,Android,2.0,32.0,16.56,8.0,4.9,4g,3000.0,63.37,https://m.media-amazon.com/images/I/41QgJi17+-L.jpg,720,1600
+Nokia C2 (2nd Edition 2022),Nokia,HMD C2.2,Android,2.0,32.0,14.5,4.9,1.9,4g,2400.0,144.0,https://m.media-amazon.com/images/I/41ZkJ3-cS0L.jpg,480,960
+Nokia G11 Plus (2022),Nokia,HMD Magik,Android,4.0,64.0,16.55,50.3,8.0,4g,5000.0,93.35,https://m.media-amazon.com/images/I/41Q3MRdFi4L.jpg,720,1600
+Nokia G11 (2022),Nokia,HMD Shadowcat,Android,4.0,32.0,16.5,13.0,8.0,4g,5050.0,107.99,https://m.media-amazon.com/images/I/31elbNiErlL.jpg,720,1600
+Nokia G21 (2022),Nokia,HMD Shadowcat Plus,Android,6.0,128.0,16.5,50.3,8.0,4g,5050.0,167.99,https://m.media-amazon.com/images/I/41gv4YOL6zL.jpg,720,1600
+Xiaomi Redmi 10 Power (2022),Xiaomi,Xiaomi Fog B,Android,,,17.04,50.3,4.9,4g,6000.0,139.0,https://m.media-amazon.com/images/I/41v6F9HR97L.jpg,720,1650
+Motorola Moto G62 5G (2022),Motorola,Motorola RhodeC,Android,4.0,128.0,16.51,50.3,15.9,5g,5000.0,179.99,https://m.media-amazon.com/images/I/41sPRYlGB-L.jpg,1080,2400
+Motorola Moto G42 (2022),Motorola,Motorola Hawao,Android,4.0,128.0,16.25,50.3,15.9,4g,5000.0,137.9,https://m.media-amazon.com/images/I/41j93koKgXL.jpg,1080,2400
+Xiaomi Redmi Note 11T Pro 5G,Xiaomi,Xiaomi Xaga,Android,,,16.7,64.4,15.9,5g,5080.0,448.9,https://m.media-amazon.com/images/I/21WIMvrPNWL.jpg,1080,2460
+Xiaomi Redmi K50i 5G,Xiaomi,Xiaomi Xaga,Android,,,16.7,64.4,15.9,5g,5080.0,125.0,https://m.media-amazon.com/images/I/41Nae8OPonS.jpg,1080,2460
+Xiaomi Poco X4 GT 5G,Xiaomi,Xiaomi Xaga,Android,,,16.7,64.4,15.9,5g,5080.0,429.9,https://m.media-amazon.com/images/I/41-J4P6EFXL.jpg,1080,2460
+Xiaomi Poco X4 Pro 5G,Xiaomi,Xiaomi VeuxIN,Android,,,16.94,64.4,15.9,5g,5000.0,241.89,https://m.media-amazon.com/images/I/41A5W+JQOJL.jpg,1080,2400
+OnePlus Ace Racing 5G (2022),OnePlus,,Android,12.0,256.0,16.73,63.7,15.9,5g,5000.0,879.0,https://m.media-amazon.com/images/I/41THBTvvHJL.jpg,1080,2412
+Nokia C200 (2022),Nokia,HMD Waterworld,Android,4.0,32.0,15.46,13.0,8.0,4g,4000.0,48.7,https://m.media-amazon.com/images/I/31sfYnbgaUL.jpg,720,1560
+Nokia C100 (2022),Nokia,HMD Drake Lite,Android,4.0,32.0,13.84,8.0,4.9,4g,3000.0,71.62,https://m.media-amazon.com/images/I/31OmlNZsyxL.jpg,720,1440
+Nokia C21 Plus (2022),Nokia,HMD Hope,Android,4.0,64.0,16.55,13.0,4.9,4g,4000.0,83.49,https://m.media-amazon.com/images/I/41s3elz8AbL.jpg,720,1600
+Xiaomi Poco F4 GT 5G,Xiaomi,Xiaomi Ingres,Android,,,16.94,63.7,19.7,5g,4700.0,318.58,https://m.media-amazon.com/images/I/41DwTwkR58L.jpg,1080,2400
+Xiaomi Poco M5s,Xiaomi,Xiaomi Rosemary,Android,,,16.33,64.4,13.0,4g,5000.0,149.0,https://m.media-amazon.com/images/I/412hGLGV0OL.jpg,1080,2400
+Xiaomi Redmi Note 10S NFC,Xiaomi,Xiaomi Rosemary,Android,,,16.33,64.4,13.0,4g,5000.0,136.73,https://m.media-amazon.com/images/I/41AdIcY+9gL.jpg,1080,2400
+Xiaomi Redmi Note 11SE 5G,Xiaomi,Xiaomi Camellia,Android,,,16.51,48.0,8.0,5g,5000.0,180.0,https://m.media-amazon.com/images/I/31e5G+-lvLL.jpg,1080,2400
+Xiaomi Redmi Note 11T Pro+ 5G,Xiaomi,Xiaomi XagaPro,Android,,,16.7,64.4,15.9,5g,4400.0,187.99,https://m.media-amazon.com/images/I/411RHgcSnfL.jpg,1080,2460
+Samsung Galaxy Quantum 3 5G 2022,Samsung,Samsung M536,Android,8.0,128.0,16.95,108.0,32.0,5g,5000.0,239.99,https://m.media-amazon.com/images/I/51JaSbauK3L.jpg,1080,2400
+Samsung Galaxy Buddy 2 5G (2022),Samsung,Samsung M236,Android,6.0,128.0,16.72,50.3,8.0,5g,5000.0,1218.9,https://m.media-amazon.com/images/I/31vXSNShXqL.jpg,1080,2408
+Samsung Galaxy Wide6 5G (2022),Samsung,Samsung A136,Android,4.0,128.0,16.55,50.3,4.9,5g,5000.0,148.0,https://m.media-amazon.com/images/I/31aommWtxQL.jpg,720,1600
+Xiaomi Civi 1s 5G,Xiaomi,Xiaomi Zijin,Android,,,16.64,63.7,32.3,5g,4500.0,156.99,https://m.media-amazon.com/images/I/41kvmZA4vbL.jpg,1080,2400
+Xiaomi Redmi 10 Prime (2022),Xiaomi,Xiaomi Selene B,Android,,,16.5,50.3,8.0,4g,6000.0,139.0,https://m.media-amazon.com/images/I/41v6F9HR97L.jpg,2560,1600
+Xiaomi Redmi 11 Prime (2022) 4G,Xiaomi,Xiaomi Rock,Android,,,16.71,50.1,8.0,4g,5000.0,102.94,https://m.media-amazon.com/images/I/41a9lmSYr2L.jpg,1080,2408
+Xiaomi Poco M5,Xiaomi,Xiaomi Rock,Android,,,16.71,50.1,8.0,4g,5000.0,149.0,https://m.media-amazon.com/images/I/412hGLGV0OL.jpg,1080,2408
+Xiaomi Poco F4 5G,Xiaomi,Xiaomi Munch,Android,,,16.94,63.7,19.7,5g,4500.0,291.87,https://m.media-amazon.com/images/I/41zhiMtc04L.jpg,1080,2400
+Oppo Realme Narzo 50A Prime (2022),Oppo,BBK R3516,Android,4.0,128.0,16.7,50.3,8.0,4g,5000.0,379.37,https://m.media-amazon.com/images/I/51C6AcOuTaL.jpg,1080,2408
+Huawei P50E 4G,Huawei,Huawei Amber B,Android,8.0,256.0,16.5,50.3,13.0,4g,4100.0,99.0,https://m.media-amazon.com/images/I/41+6RiIxyyL.jpg,1224,2700
+OnePlus Nord 2T 5G,OnePlus,BBK 2399,Android,12.0,256.0,16.33,50.3,32.0,5g,4500.0,295.1,https://m.media-amazon.com/images/I/31ZVoA-jEvL.jpg,1080,2400
+Oppo A77 5G (2022),Oppo,BBK 2339,Android,6.0,128.0,16.66,48.0,8.0,5g,5000.0,139.0,https://m.media-amazon.com/images/I/41JYXRh8J3L.jpg,720,1612
+Oppo A77 4G (2022),Oppo,BBK 2385,Android,4.0,128.0,16.66,50.1,8.0,4g,5000.0,229.0,https://m.media-amazon.com/images/I/410WJ6AjKoL.jpg,720,1612
+Huawei Honor X8 5G Premium,Huawei,Huawei Vinnie B,Android,6.0,128.0,16.5,48.0,8.0,5g,5000.0,139.0,https://m.media-amazon.com/images/I/419AbcsHI-L.jpg,720,1600
+Oppo A97 5G (2022),Oppo,BBK R3571,Android,12.0,256.0,16.71,48.0,8.0,5g,5000.0,217.88,https://m.media-amazon.com/images/I/41Zy4fJA5ZL.jpg,1080,2408
+Oppo Reno 8 Pro 5G,Oppo,,Android,12.0,256.0,16.81,50.1,32.0,5g,4500.0,334.52,https://m.media-amazon.com/images/I/41AsaYGXm4L.jpg,1080,2400
+Oppo Reno8 5G,Oppo,BBK 2359,Android,12.0,256.0,16.33,50.3,32.0,5g,4500.0,299.0,https://m.media-amazon.com/images/I/41z1pnVof5L.jpg,1080,2400
+Oppo Realme Narzo 50 Pro 5G (2022),Oppo,BBK R3395,Android,8.0,128.0,16.3,48.0,15.9,5g,5000.0,399.99,https://m.media-amazon.com/images/I/41O59hdeB+L.jpg,1080,2400
+Oppo Realme Q5 Pro 5G (2022),Oppo,BBK R3370B,Android,8.0,256.0,16.81,63.7,15.9,5g,5000.0,399.99,https://m.media-amazon.com/images/I/41O59hdeB+L.jpg,1080,2400
+Oppo Realme Q5 (2022),Oppo,BBK R3478,Android,8.0,256.0,16.76,50.1,15.9,5g,5000.0,190.18,https://m.media-amazon.com/images/I/41+2Oj8D-NL.jpg,1080,2412
+Oppo Realme Q5 5G (2022),Oppo,BBK R3478,Android,8.0,128.0,16.76,50.1,15.9,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2412
+Oppo Realme Narzo 50 5G (2022),Oppo,BBK R3571,Android,6.0,128.0,16.71,48.0,8.0,5g,5000.0,99.0,https://m.media-amazon.com/images/I/41+6RiIxyyL.jpg,1080,2408
+Oppo Reno8 Pro 5G (2022),Oppo,BBK 2357,Android,12.0,256.0,17.02,50.3,32.0,5g,4500.0,334.52,https://m.media-amazon.com/images/I/41AsaYGXm4L.jpg,1080,2412
+Samsung Galaxy XCover6 Pro 5G (2022),Samsung,Samsung G736,Android,6.0,128.0,16.72,50.1,13.0,5g,4050.0,445.0,https://m.media-amazon.com/images/I/41SgWMS2aAL.jpg,1080,2408
+Oppo A57s (2022),Oppo,BBK 2385,Android,4.0,128.0,16.66,50.1,8.0,4g,5000.0,129.15,https://m.media-amazon.com/images/I/41+X5V4NFjL.jpg,720,1612
+Oppo A57s 4G (2022),Oppo,BBK 2385,Android,4.0,128.0,16.66,50.1,8.0,4g,5000.0,129.15,https://m.media-amazon.com/images/I/41+X5V4NFjL.jpg,720,1612
+Oppo Reno8 Pro+ 5G (2022),Oppo,BBK 2357,Android,12.0,256.0,17.02,50.3,32.0,5g,4500.0,334.52,https://m.media-amazon.com/images/I/41AsaYGXm4L.jpg,1080,2412
+Motorola Moto E22 (2022),Motorola,Motorola Borag,Android,4.0,64.0,16.51,15.9,4.9,4g,4020.0,94.99,https://m.media-amazon.com/images/I/41d310oMvbL.jpg,720,1600
+Motorola Moto G32 (2022),Motorola,Motorola Devon,Android,4.0,128.0,16.51,50.3,15.9,4g,5000.0,148.99,https://m.media-amazon.com/images/I/41qktwpeeRL.jpg,1080,2400
+Motorola Moto E (2022),Motorola,Motorola Hawaii PLL,Android,4.0,64.0,16.51,50.3,8.0,4g,5000.0,118.48,https://m.media-amazon.com/images/I/41G7LDDuCGL.jpg,720,1600
+Motorola Moto E32 (2022),Motorola,Motorola Hawaii,Android,4.0,64.0,16.5,15.9,8.0,4g,5000.0,119.0,https://m.media-amazon.com/images/I/416AXRmsYGL.jpg,720,1600
+Motorola Moto E32s (2022),Motorola,Motorola Hawaii PL,Android,4.0,64.0,16.51,15.9,8.0,4g,5000.0,97.99,https://m.media-amazon.com/images/I/41W1XY4ZKdL.jpg,720,1600
+Motorola Moto E22s (2022),Motorola,Motorola Hawaii PLL,Android,4.0,64.0,16.51,15.9,8.0,4g,5000.0,123.0,https://m.media-amazon.com/images/I/41ZfztRX0EL.jpg,720,1600
+Asus ROG Phone 6 (Diablo Immortal Edition),Asus,Asus I2201A,Android,18.0,512.0,17.22,50.3,12.0,5g,6000.0,920.06,https://m.media-amazon.com/images/I/41DB0ZgjQjL.jpg,1080,2448
+Asus ROG Phone 6 (5G),Asus,Asus I2201A,Android,18.0,512.0,17.22,50.3,12.0,5g,6000.0,920.06,https://m.media-amazon.com/images/I/41DB0ZgjQjL.jpg,1080,2448
+Asus ROG Phone 6 5G,Asus,Asus I2201A,Android,18.0,512.0,17.22,50.3,12.0,5g,6000.0,920.06,https://m.media-amazon.com/images/I/41DB0ZgjQjL.jpg,1080,2448
+Asus ROG Phone 6 5G Batman Edition,Asus,Asus I2201A,Android,12.0,256.0,17.22,50.3,12.0,5g,6000.0,999.99,https://m.media-amazon.com/images/I/51GX5hVoTQL.jpg,1080,2448
+Oppo Realme C30 (2022),Oppo,BBK R3581,Android,4.0,64.0,16.5,8.0,4.9,4g,5000.0,93.17,https://m.media-amazon.com/images/I/41Yl-frpKcL.jpg,720,1600
+Asus ROG Phone 6 Pro 5G,Asus,Asus I2201,Android,20.0,512.0,17.22,50.3,12.0,5g,6000.0,920.06,https://m.media-amazon.com/images/I/41DB0ZgjQjL.jpg,1080,2448
+Motorola Moto G72 (2022),Motorola,Motorola Vicky,Android,6.0,128.0,16.64,108.0,15.9,4g,5000.0,139.6,https://m.media-amazon.com/images/I/4153lhi4awL.jpg,1080,2400
+Motorola Moto G (2022),Motorola,Motorola Vicky,Android,8.0,128.0,16.64,108.0,15.9,4g,5000.0,249.9,https://m.media-amazon.com/images/I/31ny93dJL+L.jpg,1080,2400
+Huawei nova 10,Huawei,Huawei Nicolette,Android,8.0,256.0,16.94,50.3,60.2,4g,4000.0,277.57,https://m.media-amazon.com/images/I/418rdu2eq3L.jpg,1080,2400
+Huawei nova 10 4G,Huawei,Huawei Nicolette,Android,8.0,128.0,16.94,50.3,60.2,4g,4000.0,277.57,https://m.media-amazon.com/images/I/418rdu2eq3L.jpg,1080,2400
+Huawei nova 10 Pro 4G,Huawei,Huawei Gillian,Android,8.0,256.0,17.22,50.3,60.2,4g,4500.0,301.99,https://m.media-amazon.com/images/I/314h9SYbaZL.jpg,1200,2652
+Huawei nova Y90,Huawei,Huawei Castries,Android,8.0,128.0,17.0,50.3,8.0,4g,5000.0,264.99,https://m.media-amazon.com/images/I/41rHQQqXP3L.jpg,1080,2388
+Asus ROG Phone 6D Ultimate 5G,Asus,Asus I2203,Android,18.0,512.0,17.22,50.3,12.0,5g,6000.0,45.97,https://m.media-amazon.com/images/I/41Dzj4C0xiL.jpg,1080,2448
+Samsung Galaxy A04 (2022),Samsung,Samsung A045,Android,4.0,128.0,16.55,50.1,4.9,4g,5000.0,109.99,https://m.media-amazon.com/images/I/516sC+WWmFL.jpg,720,1600
+Huawei nova 10 SE 4G,Huawei,Huawei Bonnie,Android,6.0,128.0,16.94,108.0,15.9,4g,4500.0,277.57,https://m.media-amazon.com/images/I/418rdu2eq3L.jpg,1080,2400
+Samsung Galaxy F04 (2022),Samsung,Samsung A042,Android,4.0,64.0,16.55,13.0,4.9,4g,5000.0,102.98,https://m.media-amazon.com/images/I/51xL90mMU3L.jpg,720,1600
+Samsung Galaxy A04e (2022),Samsung,Samsung A042,Android,4.0,64.0,16.55,13.0,4.9,4g,5000.0,102.98,https://m.media-amazon.com/images/I/51xL90mMU3L.jpg,720,1600
+Xiaomi Mi 12S 5G,Xiaomi,Xiaomi Mayfly,Android,,,15.95,50.3,32.0,5g,4500.0,206.88,https://m.media-amazon.com/images/I/31YoSZQ-1zL.jpg,1080,2400
+Samsung Galaxy A23 (2022),Samsung,Samsung A235,Android,4.0,128.0,16.72,49.9,8.0,4g,5000.0,200.1,https://m.media-amazon.com/images/I/51jAu-IwLlL.jpg,1080,2408
+Xiaomi Mi 12T Pro 5G,Xiaomi,Xiaomi Diting U,Android,,,16.94,201.3,19.7,5g,5000.0,599.0,https://m.media-amazon.com/images/I/41R-4jRGkrL.jpg,1220,2712
+Huawei Nova 10z,Huawei,Huawei Chandal C,Android,8.0,256.0,16.76,63.7,15.9,4g,4000.0,277.57,https://m.media-amazon.com/images/I/418rdu2eq3L.jpg,1080,2400
+Samsung Galaxy M13 5G (2022),Samsung,Samsung M136,Android,6.0,128.0,16.55,50.1,4.9,5g,5000.0,175.48,https://m.media-amazon.com/images/I/41uUGYicDRL.jpg,720,1600
+Samsung Galaxy F13 (2022),Samsung,Samsung M135U,Android,4.0,64.0,16.72,49.9,8.0,4g,6000.0,208.99,https://m.media-amazon.com/images/I/41RsPkhGRuL.jpg,1080,2408
+Samsung Galaxy M53 5G (2022),Samsung,Samsung M536,Android,6.0,128.0,16.95,108.0,32.0,5g,5000.0,259.99,https://m.media-amazon.com/images/I/41RvmtUZwYL.jpg,1080,2400
+Samsung Galaxy A33 5G (2022),Samsung,Samsung A336,Android,6.0,128.0,16.21,48.0,13.0,5g,5000.0,224.0,https://m.media-amazon.com/images/I/41ZCphS3U5L.jpg,1080,2400
+Xiaomi Mi 12 Pro,Xiaomi,Xiaomi Unicorn,Android,,,17.09,50.3,32.0,5g,4600.0,206.88,https://m.media-amazon.com/images/I/31YoSZQ-1zL.jpg,1440,3200
+Xiaomi Mi 12S Pro 5G,Xiaomi,Xiaomi Unicorn,Android,,,17.09,50.3,32.0,5g,4600.0,179.85,https://m.media-amazon.com/images/I/41buqRtymmL.jpg,1440,3200
+Xiaomi Mi 12 Pro 5G,Xiaomi,Xiaomi Unicorn,Android,,,17.09,50.3,32.0,5g,4600.0,539.99,https://m.media-amazon.com/images/I/41lD-bWN+bL.jpg,1440,3200
+Xiaomi Mi 13 Pro 5G,Xiaomi,Xiaomi Nuwa,Android,,,17.09,50.1,32.0,5g,4820.0,278.0,https://m.media-amazon.com/images/I/41xVw+UpOWL.jpg,1440,3200
+Xiaomi Mi 12S Ultra 5G,Xiaomi,Xiaomi Thor,Android,,,17.09,50.3,32.0,5g,4860.0,206.88,https://m.media-amazon.com/images/I/31YoSZQ-1zL.jpg,1440,3200
+Xiaomi Mi 13 5G,Xiaomi,Xiaomi Fuxi,Android,,,16.15,53.9,32.0,5g,4500.0,316.0,https://m.media-amazon.com/images/I/31rD9kZT97L.jpg,1080,2400
+Xiaomi Mi 12T 5G,Xiaomi,Xiaomi Plato,Android,,,16.94,108.0,19.7,5g,5000.0,206.88,https://m.media-amazon.com/images/I/31YoSZQ-1zL.jpg,1220,2712
+Xiaomi Redmi Note 11R 5G,Xiaomi,Xiaomi Mild,Android,,,16.71,13.0,4.9,5g,5000.0,211.97,https://m.media-amazon.com/images/I/61GVytfKYvL.jpg,1080,2048
+Xiaomi Redmi K60 5G,Xiaomi,Xiaomi Mondrian,Android,,,16.94,64.2,15.9,5g,5500.0,132.88,https://m.media-amazon.com/images/I/41FnAYqacyL.jpg,1440,3200
+Xiaomi Redmi K60 Pro 5G,Xiaomi,Xiaomi Socrates,Android,,,16.94,53.9,15.9,5g,5000.0,278.0,https://m.media-amazon.com/images/I/41xVw+UpOWL.jpg,1440,3200
+Samsung Galaxy Z Flip 4 5G BTS Edition,Samsung,Samsung B4,Android,8.0,128.0,17.03,12.0,10.0,5g,3700.0,849.0,https://m.media-amazon.com/images/I/31UAj5G2ofL.jpg,1080,2640
+Oppo Realme GT Neo 3T 5G (2022),Oppo,BBK R3370B,Android,8.0,256.0,16.81,63.7,15.9,5g,5000.0,235.7,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1080,2400
+Xiaomi Civi 2 5G,Xiaomi,Xiaomi Ziyi,Android,,,16.64,50.3,32.0,5g,4500.0,464.41,https://m.media-amazon.com/images/I/41DsjDgvkzL.jpg,1080,2400
+Xiaomi Mi 13 Lite 5G,Xiaomi,Xiaomi Ziyi B,Android,,,16.64,50.3,32.0,5g,4500.0,457.29,https://m.media-amazon.com/images/I/41IroqXP4zL.jpg,1080,2400
+Xiaomi Redmi K50 Extreme Mercedes-AMG F1 Team Edition 5G,Xiaomi,Xiaomi Diting,Android,,,16.94,108.0,19.7,5g,5000.0,259.0,https://m.media-amazon.com/images/I/41QZkqOkQJL.jpg,1220,2712
+Xiaomi Redmi K60E 5G,Xiaomi,Xiaomi Rembrandt,Android,,,16.94,48.0,19.7,5g,5500.0,278.0,https://m.media-amazon.com/images/I/41xVw+UpOWL.jpg,1440,3200
+Oppo Realme GT Neo 3T G (2022),Oppo,BBK R3370B,Android,8.0,256.0,16.81,63.7,15.9,5g,5000.0,235.87,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1080,2400
+Xiaomi Poco X5 5G,Xiaomi,Xiaomi Moonstone,Android,,,16.94,48.0,13.0,5g,5000.0,183.0,https://m.media-amazon.com/images/I/613v8Bw4V0L.jpg,1080,2400
+Xiaomi Poco X5 Pro 5G,Xiaomi,Xiaomi Redwood,Android,,,16.94,108.0,22.6,5g,5000.0,291.22,https://m.media-amazon.com/images/I/41M0uDhqqZL.jpg,1080,2400
+Samsung Galaxy W70 5G,Samsung,Samsung B4,Android,12.0,512.0,17.03,12.0,10.0,5g,3700.0,369.0,https://m.media-amazon.com/images/I/41eccmjCBsL.jpg,1080,2640
+Samsung Galaxy W23 5G,Samsung,Samsung Q4,Android,18.0,512.0,15.73,50.1,10.0,5g,4400.0,285.99,https://m.media-amazon.com/images/I/41xTwd4zURL.jpg,904,2316
+Xiaomi Redmi 12C NFC,Xiaomi,Xiaomi Earth,Android,,,17.04,50.1,4.9,4g,5000.0,107.98,https://m.media-amazon.com/images/I/31Hj6hr5Z3L.jpg,720,1650
+Xiaomi Redmi 12C,Xiaomi,Xiaomi Earth,Android,,,17.04,50.1,4.9,4g,5000.0,107.98,https://m.media-amazon.com/images/I/31Hj6hr5Z3L.jpg,720,1650
+Xiaomi Redmi 12C (2020),Xiaomi,Xiaomi Earth,Android,,,17.04,50.1,4.9,4g,5000.0,95.02,https://m.media-amazon.com/images/I/31uSMOceiVL.jpg,720,1650
+Oppo A56s 5G (2021),Oppo,,Android,8.0,256.0,16.66,13.0,8.0,5g,5000.0,197.0,https://m.media-amazon.com/images/I/31Q1ElIF1jL.jpg,720,1612
+Xiaomi Poco C55,Xiaomi,Xiaomi Earth,Android,,,17.04,50.1,4.9,4g,5000.0,120.99,https://m.media-amazon.com/images/I/41PzVGQDX6L.jpg,720,1650
+Oppo A77s 4G (2022),Oppo,BBK 2473,Android,8.0,128.0,16.66,50.1,8.0,4g,5000.0,115.12,https://m.media-amazon.com/images/I/4107AOYauXL.jpg,720,1612
+Oppo K10x 5G (2022),Oppo,BBK R3471A,Android,12.0,256.0,16.74,63.7,15.9,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2412
+Oppo K10x (2022),Oppo,BBK R3471A,Android,8.0,128.0,16.74,63.7,15.9,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2412
+Oppo A17 4G (2022),Oppo,BBK 2477,Android,4.0,64.0,16.66,50.1,4.9,4g,5000.0,118.08,https://m.media-amazon.com/images/I/41Hfrk-Kw8L.jpg,720,1612
+Oppo A17k 4G (2022),Oppo,BBK 2471,Android,4.0,64.0,16.66,8.0,4.9,4g,5000.0,115.12,https://m.media-amazon.com/images/I/4107AOYauXL.jpg,720,1612
+Oppo A58 5G (2022),Oppo,,Android,8.0,256.0,16.66,50.1,8.0,5g,5000.0,145.0,https://m.media-amazon.com/images/I/419DBIY-2qL.jpg,720,1612
+Oppo Realme GT2 5G Explorer Master,Oppo,BBK R3551,Android,12.0,256.0,17.0,50.1,15.9,5g,5000.0,362.09,https://m.media-amazon.com/images/I/51A4qmCL6QL.jpg,1080,2412
+Oppo Realme GT2 5G Explorer,Oppo,BBK R3551,Android,8.0,256.0,17.0,50.1,15.9,5g,5000.0,418.5,https://m.media-amazon.com/images/I/4119ut8brEL.jpg,1080,2412
+Asus Zenfone 10 5G,Asus,Asus I2302,Android,18.0,512.0,15.04,50.1,32.0,5g,4300.0,629.88,https://m.media-amazon.com/images/I/31FH8UYo17L.jpg,1080,2400
+Samsung W24 Flip 5G,Samsung,Samsung B5,Android,12.0,512.0,17.03,12.0,10.0,5g,3700.0,849.0,https://m.media-amazon.com/images/I/31UAj5G2ofL.jpg,1080,2640
+Samsung W24 5G,Samsung,Samsung Q5,Android,18.0,1024.0,15.73,50.1,10.0,5g,4400.0,369.0,https://m.media-amazon.com/images/I/41eccmjCBsL.jpg,904,2316
+Samsung Galaxy Z Flip 5 5G Maison Margiela Edition,Samsung,Samsung B5,Android,8.0,512.0,17.03,12.0,10.0,5g,3700.0,833.26,https://m.media-amazon.com/images/I/31Ph9NnvJXL.jpg,1080,2640
+Samsung Galaxy Z Fold5 5G Thom Browne Edition,Samsung,Samsung Q5,Android,12.0,512.0,15.73,50.1,10.0,5g,4400.0,1699.0,https://m.media-amazon.com/images/I/41bqjHksj5L.jpg,904,2316
+Samsung Galaxy Z Fold5 5G  Thom Browne Edition,Samsung,Samsung Q5,Android,12.0,512.0,15.73,50.1,10.0,5g,4400.0,1699.0,https://m.media-amazon.com/images/I/41bqjHksj5L.jpg,904,2316
+Samsung Galaxy Z Fold5 5G,Samsung,Samsung Q5,Android,12.0,1024.0,15.73,50.1,10.0,5g,4400.0,1599.99,https://m.media-amazon.com/images/I/31uUG4ZImAL.jpg,904,2316
+Samsung Galaxy Z Flip 5 5G,Samsung,Samsung B5,Android,8.0,256.0,17.03,12.0,10.0,5g,3700.0,833.26,https://m.media-amazon.com/images/I/31Ph9NnvJXL.jpg,1080,2640
+Apple iPhone 15,Apple,"Apple iPhone 15,4",iOS,6.0,512.0,15.54,48.0,12.2,5g,3349.0,810.01,https://m.media-amazon.com/images/I/31jlnEYZNlL.jpg,1179,2556
+Oppo Realme GT Neo5 SE 5G,Oppo,BBK R3700,Android,18.0,1024.0,17.12,63.7,15.9,5g,5500.0,235.7,https://m.media-amazon.com/images/I/41sD4acoSXL.jpg,1240,2772
+Apple iPhone 15 Plus,Apple,"Apple iPhone 15,5",iOS,6.0,512.0,16.99,48.0,12.2,5g,4383.0,954.93,https://m.media-amazon.com/images/I/31Oa6apwXBL.jpg,1290,2796
+Motorola Moto G52j 5G (2023) Special,Motorola,Motorola CypfR,Android,8.0,256.0,17.27,50.3,13.0,5g,5000.0,118.48,https://m.media-amazon.com/images/I/41G7LDDuCGL.jpg,1080,2460
+Apple iPhone 15 Pro,Apple,"Apple iPhone 16,1",iOS,8.0,1024.0,15.55,48.0,12.2,5g,3274.0,1065.0,https://m.media-amazon.com/images/I/41iVRwwZMWL.jpg,1179,2556
+Apple iPhone 15 Pro Max,Apple,"Apple iPhone 16,2",iOS,8.0,1024.0,16.99,48.0,12.2,5g,4422.0,1319.0,https://m.media-amazon.com/images/I/412TRO+fIuL.jpg,1290,2796
+Xiaomi Poco M6 Pro 5G,Xiaomi,Xiaomi Sky B,Android,,,17.25,50.1,8.0,5g,5000.0,219.0,https://m.media-amazon.com/images/I/41t9M5YjcbL.jpg,1080,2460
+Xiaomi Redmi 12 5G XIG03,Xiaomi,Xiaomi Sky,Android,,,17.25,50.1,8.0,5g,5000.0,132.88,https://m.media-amazon.com/images/I/41FnAYqacyL.jpg,1080,2460
+Xiaomi Redmi 12 5G,Xiaomi,Xiaomi Sky B,Android,,,17.25,50.1,8.0,5g,5000.0,132.88,https://m.media-amazon.com/images/I/41FnAYqacyL.jpg,1080,2460
+Motorola Moto G52j II 5G (2023),Motorola,Motorola CypfR,Android,8.0,128.0,17.27,50.3,13.0,5g,5000.0,199.9,https://m.media-amazon.com/images/I/412cwiRLhmL.jpg,1080,2460
+Oppo Realme GT3 5G (2023) 240W,Oppo,BBK R3706,Android,18.0,256.0,17.12,50.1,15.9,5g,4600.0,239.0,https://m.media-amazon.com/images/I/41pKbbptQsL.jpg,1240,2772
+Oppo Reno9 A 5G (2023),Oppo,BBK 2523,Android,8.0,128.0,16.2,48.0,15.9,5g,4500.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+Oppo Reno 9 A 5G (2023),Oppo,BBK 2523,Android,8.0,128.0,16.2,48.0,15.9,5g,4500.0,197.0,https://m.media-amazon.com/images/I/31Q1ElIF1jL.jpg,1080,2400
+Oppo A58x 5G (2022),Oppo,,Android,8.0,128.0,16.66,13.0,8.0,5g,5000.0,145.0,https://m.media-amazon.com/images/I/419DBIY-2qL.jpg,720,1612
+Oppo F23 5G,Oppo,BBK 2527,Android,8.0,256.0,17.06,64.2,32.0,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+Oppo A98 5G,Oppo,BBK 2527,Android,8.0,256.0,17.06,64.2,32.0,5g,5000.0,269.0,https://m.media-amazon.com/images/I/41LNX9ns-ML.jpg,1080,2400
+Oppo Realme 9i 5G (2022),Oppo,BBK R3612,Android,6.0,128.0,16.71,50.1,8.0,5g,5000.0,149.0,https://m.media-amazon.com/images/I/41s-A16HVEL.jpg,1080,2408
+Sony Xperia 10 V 5G,Sony,Sony PDX-235,Android,6.0,128.0,15.5,48.0,8.0,5g,5000.0,439.33,https://m.media-amazon.com/images/I/21G6wlGe4jL.jpg,1080,2520
+Xiaomi Mi 13 Ultra 5G,Xiaomi,Xiaomi Ishtar,Android,,,17.09,50.1,32.0,5g,4800.0,218.0,https://m.media-amazon.com/images/I/51Lqrjx9S9L.jpg,1440,3200
+Samsung Galaxy A24 4G (2023),Samsung,Samsung A245,Android,4.0,128.0,16.42,50.1,13.0,4g,5000.0,1115.0,https://m.media-amazon.com/images/I/41pODOGsRZL.jpg,1080,2340
+Oppo Realme 10T 5G (2023),Oppo,BBK R3612,Android,8.0,256.0,16.71,50.1,8.0,5g,5000.0,399.0,https://m.media-amazon.com/images/I/4178kVR5PNL.jpg,1080,2408
+Oppo Reno11 Pro 5G,Oppo,,Android,12.0,512.0,17.13,50.1,32.0,5g,4700.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1240,2772
+Oppo Reno11 5G (2024),Oppo,BBK 2599A,Android,12.0,512.0,17.02,50.3,32.0,5g,4900.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2412
+Asus ROG Phone 8 5G,Asus,Asus I2401,Android,18.0,256.0,17.22,50.3,32.0,5g,5500.0,696.83,https://m.media-amazon.com/images/I/41nLKwLo0eL.jpg,1080,2400
+Asus ROG Phone 8 Pro Edition 5G,Asus,Asus I2401,Android,26.0,1024.0,17.22,50.3,32.0,5g,5500.0,1217.59,https://m.media-amazon.com/images/I/419oGGdlKOL.jpg,1080,2400
+Asus ROG Phone 8 Pro 5G,Asus,Asus I2401,Android,18.0,512.0,17.22,50.3,32.0,5g,5500.0,1217.59,https://m.media-amazon.com/images/I/419oGGdlKOL.jpg,1080,2400
+Asus Zenfone 11 Ultra 5G,Asus,Asus I2401H,Android,18.0,512.0,17.22,50.3,32.0,5g,5500.0,1099.99,https://m.media-amazon.com/images/I/31iUVzmCA-L.jpg,1080,2400
+Motorola Moto Edge 40 Neo 5G (2023),Motorola,Motorola Manaus,Android,12.0,256.0,16.64,50.1,32.0,5g,5000.0,319.0,https://m.media-amazon.com/images/I/412ssFBM+IL.jpg,1080,2400
+TCL 310M,TCL,,Android,1.0,8.0,12.7,1.9,0.3,4g,,119.0,https://m.media-amazon.com/images/I/21t1E3tWS9L.jpg,480,854
+Xiaomi Redmi K70E 5G,Xiaomi,Xiaomi Duchamp,Android,,,16.94,64.2,15.9,5g,5500.0,277.02,https://m.media-amazon.com/images/I/41xVw+UpOWL.jpg,1220,2712
+Xiaomi Redmi K70 5G,Xiaomi,Xiaomi Vermeer,Android,,,16.94,50.1,16.3,5g,5000.0,277.02,https://m.media-amazon.com/images/I/41xVw+UpOWL.jpg,1440,3200
+Xiaomi Redmi K70 Pro 5G,Xiaomi,Xiaomi Manet,Android,,,16.94,50.1,16.3,5g,5000.0,333.56,https://m.media-amazon.com/images/I/31WcQ13HMPL.jpg,1440,3200
+OnePlus Ace 3 5G Genshin Impact Special Edition,OnePlus,BBK Aston,Android,18.0,512.0,17.22,50.1,16.2,5g,5500.0,398.85,https://m.media-amazon.com/images/I/31GteSsQA0L.jpg,1264,2780
+OnePlus 12R 5G,OnePlus,BBK Aston,Android,18.0,256.0,17.22,50.1,16.2,5g,5500.0,579.0,https://m.media-amazon.com/images/I/41jtPRZTFjL.jpg,1264,2780
+OnePlus Ace 3 5G,OnePlus,BBK Aston,Android,18.0,1024.0,17.22,50.1,16.2,5g,5500.0,380.61,https://m.media-amazon.com/images/I/41-7pkngAmL.jpg,1264,2780
+OnePlus 12 5G,OnePlus,BBK Waffle,Android,18.0,512.0,17.32,50.1,32.0,5g,5400.0,579.0,https://m.media-amazon.com/images/I/41jtPRZTFjL.jpg,1440,3168
+Xiaomi Mi 14 Pro 5G,Xiaomi,Xiaomi Shennong,Android,,,17.09,50.3,32.0,5g,4880.0,402.0,https://m.media-amazon.com/images/I/31-fPmbSMjL.jpg,1440,3200
+Xiaomi Mi 14 Pro 5G Titanium Edition,Xiaomi,Xiaomi Shennong,Android,,,17.09,50.3,32.0,5g,4880.0,789.99,https://m.media-amazon.com/images/I/31zRLt2t1UL.jpg,1440,3200
+Xiaomi Mi 14 Ultra 5G,Xiaomi,Xiaomi Aurora,Android,,,17.09,50.1,32.0,5g,5300.0,1394.07,https://m.media-amazon.com/images/I/41d+D14oSGL.jpg,1440,3200
+Xiaomi Mi Mix Fold 3 (2023),Xiaomi,Xiaomi Babylon,Android,,,16.66,53.9,19.7,5g,4800.0,1499.0,https://m.media-amazon.com/images/I/41NsbQK6BKL.jpg,1080,2520
+Xiaomi Mi Mix Fold 3 (2023) 5G,Xiaomi,Xiaomi Babylon,Android,,,16.66,53.9,19.7,5g,4800.0,191.53,https://m.media-amazon.com/images/I/41sB1WYcq7L.jpg,1080,2520
+Xiaomi Mi 13T Pro 5G,Xiaomi,Xiaomi Corot,Android,,,16.94,50.1,19.7,5g,5000.0,578.98,https://m.media-amazon.com/images/I/41R-4jRGkrL.jpg,1220,2712
+Samsung Galaxy Y55 5G (2024),Samsung,Samsung M556,Android,8.0,128.0,16.95,50.1,13.0,5g,5000.0,360.44,https://m.media-amazon.com/images/I/31VwlTg8tbL.jpg,1080,2400
+Xiaomi Redmi K60 Extreme Edition Top 5G,Xiaomi,Xiaomi Corot C,Android,,,16.94,53.9,19.7,5g,5000.0,320.0,https://m.media-amazon.com/images/I/41TkkBv3X4L.jpg,1220,2712
+Xiaomi Redmi K60 Extreme Edition Premium 5G,Xiaomi,Xiaomi Corot C,Android,,,16.94,53.9,19.7,5g,5000.0,320.0,https://m.media-amazon.com/images/I/41TkkBv3X4L.jpg,1220,2712
+Xiaomi Redmi K60 Extreme Edition,Xiaomi,Xiaomi Corot C,Android,,,16.94,53.9,19.7,5g,5000.0,859.0,https://m.media-amazon.com/images/I/415jEN+ctqL.jpg,1220,2712
+Huawei Mate X5 4G Collector Edition,Huawei,Huawei Alta 2,Android,18.0,1024.0,16.2,50.3,8.0,4g,5060.0,46.0,https://m.media-amazon.com/images/I/41iUNOwVbpL.jpg,1080,2504
+Huawei Mate X5 4G,Huawei,Huawei Alta 2,Android,18.0,512.0,16.2,50.3,8.0,4g,5060.0,199.99,https://m.media-amazon.com/images/I/41+17mEYqyL.jpg,1080,2504
+Sony Xperia 10 V 5G Fun Edition,Sony,Sony PDX-235,Android,6.0,128.0,15.5,48.0,8.0,5g,5000.0,399.0,https://m.media-amazon.com/images/I/41zKD9UzkiL.jpg,1080,2520
+Samsung Galaxy F55 5G (2024),Samsung,Samsung M556,Android,8.0,128.0,16.95,50.1,50.1,5g,5000.0,399.0,https://m.media-amazon.com/images/I/41BzMDXBdQL.jpg,1080,2400
+Huawei Mate 60,Huawei,Huawei Bryan,Android,12.0,1024.0,16.99,50.3,13.0,4g,4750.0,2332.99,https://m.media-amazon.com/images/I/21xXUK2lcwL.jpg,1216,2688
+Huawei Mate 60 Pro,Huawei,Huawei Allen,Android,12.0,1024.0,17.32,50.3,13.0,4g,5000.0,494.0,https://m.media-amazon.com/images/I/41UnqrJrI6L.jpg,1260,2720
+Huawei Mate 60 Pro+,Huawei,Huawei AllenP,Android,18.0,1024.0,17.32,48.0,13.0,4g,5000.0,1151.04,https://m.media-amazon.com/images/I/416ZZ-OZDeL.jpg,1260,2720
+Sony Xperia 5 V 5G,Sony,Sony PDX-237,Android,8.0,128.0,15.5,51.9,12.2,5g,5000.0,830.0,https://m.media-amazon.com/images/I/41BNjlnGKfL.jpg,1080,2520
+Oppo Find N3 Flip 5G,Oppo,BBK Flamingo,Android,12.0,512.0,17.27,50.1,32.0,5g,4300.0,366.12,https://m.media-amazon.com/images/I/51oSFLq8TjL.jpg,1080,2520
+Oppo Find N3 5G (2023),Oppo,BBK Hedwig,Android,18.0,512.0,16.03,48.0,32.0,5g,4805.0,439.0,https://m.media-amazon.com/images/I/410wuI+MqkS.jpg,1116,2484
+Samsung Galaxy S24 Ultra 5G,Samsung,Samsung Muse 3,Android,12.0,1024.0,17.25,201.3,12.0,5g,5000.0,1459.0,https://m.media-amazon.com/images/I/41+NS8U9oIL.jpg,1440,3120
+Samsung Galaxy S24 5G,Samsung,Samsung Muse 1,Android,8.0,512.0,15.64,50.1,12.0,5g,4000.0,930.96,https://m.media-amazon.com/images/I/41n8xeWrxcL.jpg,1080,2340
+Samsung Galaxy M55 5G (2024),Samsung,Samsung M556,Android,8.0,256.0,16.95,50.1,50.1,5g,5000.0,433.0,https://m.media-amazon.com/images/I/417bkdVf1ML.jpg,1080,2400
+Google Pixel 8 5G,Google,Google Shiba,Android,8.0,256.0,15.7,50.1,10.0,5g,4575.0,549.0,https://m.media-amazon.com/images/I/418h8MpE3tL.jpg,1080,2400
+Google Pixel 8 Pro 5G,Google,Google Husky,Android,12.0,512.0,17.0,50.1,10.0,5g,5050.0,599.0,https://m.media-amazon.com/images/I/4111rJ524AL.jpg,1344,2992
+Samsung Galaxy XCover7 5G (2024),Samsung,Samsung G550,Android,6.0,128.0,16.72,50.1,4.9,5g,4050.0,245.08,https://m.media-amazon.com/images/I/51677XAFOqL.jpg,1080,2408
+Samsung Galaxy A35 5G (2024),Samsung,Samsung A356,Android,6.0,128.0,16.83,50.1,13.0,5g,5000.0,249.84,https://m.media-amazon.com/images/I/31aqUlfYr8L.jpg,1080,2340
+Samsung Galaxy A35 5G  (2024),Samsung,Samsung A356,Android,6.0,128.0,16.83,50.1,13.0,5g,5000.0,249.84,https://m.media-amazon.com/images/I/31aqUlfYr8L.jpg,1080,2340
+Samsung Galaxy A55 5G (2024),Samsung,Samsung A556,Android,12.0,256.0,16.83,50.1,32.0,5g,5000.0,360.44,https://m.media-amazon.com/images/I/31VwlTg8tbL.jpg,1080,2340
+Samsung Galaxy A13 (2022),Samsung,Samsung A137,Android,4.0,64.0,16.72,49.9,8.0,4g,5000.0,179.99,https://m.media-amazon.com/images/I/41gfSHuXkDL.jpg,1080,2408
+Samsung Galaxy M15 5G (2024),Samsung,Samsung M156,Android,4.0,128.0,16.39,50.1,13.0,5g,6000.0,259.99,https://m.media-amazon.com/images/I/41RvmtUZwYL.jpg,1080,2340
+Samsung Galaxy F12 (2021),Samsung,Samsung M127,Android,4.0,128.0,16.55,48.0,8.0,4g,6000.0,131.98,https://m.media-amazon.com/images/I/413VLIUlAkL.jpg,720,1600
+Samsung Galaxy F15 5G (2024),Samsung,Samsung M156,Android,6.0,128.0,16.39,50.1,13.0,5g,6000.0,259.99,https://m.media-amazon.com/images/I/41RvmtUZwYL.jpg,1080,2340
+Samsung Galaxy M32 4G (2021),Samsung,Samsung M325V,Android,8.0,128.0,16.21,57.9,19.7,4g,5000.0,209.71,https://m.media-amazon.com/images/I/31SY9CbvCDS.jpg,1080,2400
+Samsung Galaxy F34 5G (2023),Samsung,Samsung M346,Android,8.0,128.0,16.42,50.1,13.0,5g,6000.0,219.99,https://m.media-amazon.com/images/I/51JaSbauK3L.jpg,1080,2340
+Samsung Galaxy M34 5G (2023),Samsung,Samsung M346,Android,8.0,256.0,16.42,50.1,13.0,5g,6000.0,219.99,https://m.media-amazon.com/images/I/51JaSbauK3L.jpg,1080,2340
+Samsung Galaxy A05s (2023),Samsung,Samsung A057,Android,6.0,128.0,17.08,50.1,13.0,4g,5000.0,129.0,https://m.media-amazon.com/images/I/41hSpWsymSL.jpg,1080,2400
+Samsung Galaxy A05 (2023),Samsung,Samsung A055,Android,6.0,128.0,17.13,50.1,8.0,4g,5000.0,124.0,https://m.media-amazon.com/images/I/61TpmGw7m7L.jpg,720,1600
+Samsung Galaxy A25 5G (2024),Samsung,Samsung A256,Android,6.0,128.0,16.42,50.1,13.0,5g,5000.0,200.0,https://m.media-amazon.com/images/I/31WILLgxPhL.jpg,1080,2340
+Samsung Galaxy A14 4G (2023),Samsung,Samsung A145,Android,4.0,128.0,16.7,50.1,13.0,4g,5000.0,102.0,https://m.media-amazon.com/images/I/31oxdAXilYL.jpg,1080,2408
+Samsung Galaxy A15 4G (2024),Samsung,Samsung A155,Android,4.0,128.0,16.39,50.1,13.0,4g,5000.0,131.98,https://m.media-amazon.com/images/I/413VLIUlAkL.jpg,1080,2340
+Samsung Galaxy A15 5G (2024),Samsung,Samsung A156,Android,8.0,256.0,16.39,50.1,13.0,5g,5000.0,131.98,https://m.media-amazon.com/images/I/413VLIUlAkL.jpg,1080,2340
+Oppo A79 5G (2023),Oppo,BBK 2557,Android,4.0,128.0,17.06,50.1,8.0,5g,5000.0,161.0,https://m.media-amazon.com/images/I/41KH5sopE6L.jpg,1080,2400
+Samsung Galaxy S23 5G,Samsung,Samsung Diamond DM1,Android,8.0,256.0,15.39,50.1,12.0,5g,3900.0,620.0,https://m.media-amazon.com/images/I/31YeunuwoDL.jpg,1080,2340
+Samsung Galaxy S24+ 5G,Samsung,Samsung Muse 2,Android,12.0,512.0,16.91,50.1,12.0,5g,4900.0,930.96,https://m.media-amazon.com/images/I/41n8xeWrxcL.jpg,1440,3120
+Samsung Galaxy S23 FE 5G,Samsung,Samsung S711,Android,8.0,256.0,16.31,49.9,10.0,5g,4500.0,552.11,https://m.media-amazon.com/images/I/41jSqS4wnQL.jpg,1080,2340
+Oppo Reno10 5G (2023),Oppo,BBK 2531,Android,8.0,256.0,17.02,63.7,32.0,5g,5000.0,331.0,https://m.media-amazon.com/images/I/41YJGt0AXkL.jpg,1080,2412
+Oppo Reno10 Pro 5G,Oppo,,Android,18.0,512.0,17.13,50.1,32.0,5g,4700.0,435.0,https://m.media-amazon.com/images/I/41etcUrNfQL.jpg,1240,2772
+Oppo Reno10 Pro 5G (2023),Oppo,BBK 2525,Android,12.0,256.0,17.02,50.1,32.0,5g,4600.0,429.0,https://m.media-amazon.com/images/I/41G0iBgTa0L.jpg,1080,2412
+Oppo Reno10 Pro+ 5G,Oppo,BBK 2521,Android,12.0,256.0,17.13,50.1,32.0,5g,4700.0,429.0,https://m.media-amazon.com/images/I/41G0iBgTa0L.jpg,1240,2772
+Oppo Realme C67 4G (2023),Oppo,BBK R3890,Android,8.0,128.0,17.07,108.0,8.0,4g,5000.0,152.99,https://m.media-amazon.com/images/I/41G8w5wlfHL.jpg,1080,2400
+Oppo Realme C67 4G NFC (2023),Oppo,BBK R3890,Android,8.0,256.0,17.07,108.0,8.0,4g,5000.0,186.41,https://m.media-amazon.com/images/I/41+2Oj8D-NL.jpg,1080,2400
+Oppo Realme 11 5G (2023),Oppo,BBK R3750,Android,8.0,256.0,16.33,64.2,8.0,5g,5000.0,246.0,https://m.media-amazon.com/images/I/41qVZoOlrSL.jpg,1080,2400
+Oppo Realme Narzo 60 5G (2023),Oppo,BBK R3750,Android,8.0,256.0,16.33,64.2,15.9,5g,5000.0,145.0,https://m.media-amazon.com/images/I/419DBIY-2qL.jpg,1080,2400
+Oppo Realme 10 (2022),Oppo,BBK 3630,Android,8.0,128.0,16.2,50.1,15.9,4g,5000.0,138.99,https://m.media-amazon.com/images/I/41v6F9HR97L.jpg,1080,2400
+Oppo Realme 10 4G (2022),Oppo,BBK 3630,Android,4.0,64.0,16.2,50.1,15.9,4g,5000.0,99.0,https://m.media-amazon.com/images/I/41+6RiIxyyL.jpg,1080,2400
+Oppo Realme 11 4G (2023),Oppo,BBK 3636,Android,8.0,256.0,16.2,108.0,15.9,4g,5000.0,306.89,https://m.media-amazon.com/images/I/41eA4-TzpxL.jpg,1080,2400
+Oppo Realme 11 4G NFC (2023),Oppo,BBK 3636,Android,8.0,128.0,16.2,108.0,15.9,4g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+Oppo Realme 11 (2023)  NFC,Oppo,BBK 3636,Android,8.0,256.0,16.2,108.0,15.9,4g,5000.0,309.95,https://m.media-amazon.com/images/I/41-gJ11MORL.jpg,1080,2400
+Oppo Realme 11x 5G NFC (2023),Oppo,BBK R3785,Android,8.0,128.0,17.07,64.2,8.0,5g,5000.0,144.99,https://m.media-amazon.com/images/I/41HhUU-PfrL.jpg,1080,2400
+Oppo Realme 11x 5G (2023),Oppo,BBK R3785,Android,8.0,128.0,17.07,64.2,8.0,5g,5000.0,270.0,https://m.media-amazon.com/images/I/41UuyhKLMgL.jpg,1080,2400
+Oppo Narzo 60x 5G (2023),Oppo,BBK R3782,Android,6.0,128.0,17.07,50.1,8.0,5g,5000.0,208.0,https://m.media-amazon.com/images/I/41Zy4fJA5ZL.jpg,1080,2400
+Oppo Realme C67 5G (2023),Oppo,BBK R3782,Android,6.0,256.0,17.07,50.1,8.0,5g,5000.0,186.41,https://m.media-amazon.com/images/I/41+2Oj8D-NL.jpg,1080,2400
+Oppo Realme V50 5G (2023),Oppo,BBK R3783,Android,8.0,256.0,17.07,13.0,8.0,5g,5000.0,99.0,https://m.media-amazon.com/images/I/41+6RiIxyyL.jpg,1080,2400
+Oppo Realme 11 5G NFC (2023),Oppo,BBK R3780,Android,8.0,256.0,17.07,108.0,16.2,5g,5000.0,306.89,https://m.media-amazon.com/images/I/41eA4-TzpxL.jpg,1080,2400
+Oppo Realme 11 Pro 5G NFC (2023),Oppo,BBK R3770,Android,12.0,512.0,17.02,100.6,16.2,5g,5000.0,306.89,https://m.media-amazon.com/images/I/41eA4-TzpxL.jpg,1080,2412
+Oppo Realme 11 Pro 5G (2023),Oppo,BBK R3770,Android,12.0,256.0,17.02,100.6,16.2,5g,5000.0,320.0,https://m.media-amazon.com/images/I/41mH8-keeKL.jpg,1080,2412
+Motorola Moto G53s 5G (2023),Motorola,Motorola Penang,Android,8.0,128.0,16.5,50.1,8.0,5g,5000.0,227.99,https://m.media-amazon.com/images/I/31ClKW1rztL.jpg,720,1600
+Oppo Realme 11 Pro+ 5G NFC (2023),Oppo,BBK R3740,Android,12.0,1024.0,17.02,199.8,32.0,5g,4870.0,306.89,https://m.media-amazon.com/images/I/41eA4-TzpxL.jpg,1080,2412
+Oppo Realme 11 Pro+ 5G (2023),Oppo,BBK R3740,Android,12.0,512.0,17.02,199.8,32.0,5g,4870.0,246.0,https://m.media-amazon.com/images/I/41qVZoOlrSL.jpg,1080,2412
+Nokia XR21 (2023) 5G Limited Edition,Nokia,HMD Sentry,Android,6.0,128.0,16.48,63.7,15.9,5g,4800.0,567.58,https://m.media-amazon.com/images/I/31r7T1WoQyL.jpg,1080,2400
+Asus Zenfone 10 5G,Asus,Asus I2302,Android,18.0,512.0,15.04,50.1,32.0,5g,4300.0,629.88,https://m.media-amazon.com/images/I/31FH8UYo17L.jpg,1080,2400
+Samsung W24 Flip 5G,Samsung,Samsung B5,Android,12.0,512.0,17.03,12.0,10.0,5g,3700.0,849.0,https://m.media-amazon.com/images/I/31UAj5G2ofL.jpg,1080,2640
+Samsung W24 5G,Samsung,Samsung Q5,Android,18.0,1024.0,15.73,50.1,10.0,5g,4400.0,1115.0,https://m.media-amazon.com/images/I/41pODOGsRZL.jpg,904,2316
+Samsung Galaxy Z Flip 5 5G Maison Margiela Edition,Samsung,Samsung B5,Android,8.0,512.0,17.03,12.0,10.0,5g,3700.0,833.26,https://m.media-amazon.com/images/I/31Ph9NnvJXL.jpg,1080,2640
+Samsung Galaxy Z Fold5 5G Thom Browne Edition,Samsung,Samsung Q5,Android,12.0,512.0,15.73,50.1,10.0,5g,4400.0,1399.9,https://m.media-amazon.com/images/I/31uUG4ZImAL.jpg,904,2316
+Samsung Galaxy Z Fold5 5G  Thom Browne Edition,Samsung,Samsung Q5,Android,12.0,512.0,15.73,50.1,10.0,5g,4400.0,1399.9,https://m.media-amazon.com/images/I/31uUG4ZImAL.jpg,904,2316
+Samsung Galaxy Z Fold5 5G,Samsung,Samsung Q5,Android,12.0,1024.0,15.73,50.1,10.0,5g,4400.0,1399.9,https://m.media-amazon.com/images/I/31uUG4ZImAL.jpg,904,2316
